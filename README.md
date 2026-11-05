@@ -48,7 +48,7 @@ Settings are saved in `config/w-tap_mod.json`, which is created on first launch.
 ## Installation
 
 1. Install Fabric Loader for Minecraft 1.21.11.
-2. Download the latest `w-tap_mod-<version>.jar` from the **Releases** page.
+2. Download the latest `w-tap_mod-<version>.jar` from the **Releases** page. Or download from https://modrinth.com/mod/w-tap_mod
 3. Put the jar and Fabric API in your `mods` folder (`%appdata%\.minecraft\mods` on Windows).
 4. Launch the game.
 
